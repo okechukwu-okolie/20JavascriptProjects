@@ -1,0 +1,7 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    /* background-color: rgba(112, 198, 198, 0.583); */
+    background: linear-gradient(to left, rgba(0, 255, 255, 0.541),rgba(0, 255, 255, 0.541));
+}
